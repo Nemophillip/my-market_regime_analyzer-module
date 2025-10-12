@@ -1,0 +1,1 @@
+# my-market_regime_analyzer-module
